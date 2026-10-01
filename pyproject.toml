@@ -1,0 +1,6 @@
+[tool.coverage.run]
+source = ["."]
+omit = ["tests/*"]
+
+[tool.coverage.report]
+omit = ["tests/*"]
