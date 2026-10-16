@@ -1,0 +1,6 @@
+# Coverage artifacts
+.coverage
+coverage.xml
+htmlcov/
+__pycache__/
+*.pyc
