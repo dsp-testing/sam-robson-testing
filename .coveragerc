@@ -1,0 +1,7 @@
+[run]
+source = .
+omit =
+    tests/*
+
+[xml]
+output = coverage.xml

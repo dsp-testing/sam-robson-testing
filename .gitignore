@@ -1,0 +1,6 @@
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+__pycache__/
+*.pyc
